@@ -1,0 +1,42 @@
+[
+  {
+    "order": "1",
+    "id": "dracula",
+    "name": "Drácula",
+    "author": "Bram Stoker",
+    "cover": "https://m.media-amazon.com/images/I/51ZJezIGReL._SY445_SX342_ML2_.jpg",
+    "simple_description": "Uma das mais emblemáticas obras do terror, Drácula transcende as fronteiras do tempo."
+  },
+  {
+    "order": "2",
+    "id": "a-revolucao-dos-bichos",
+    "name": "A revolução dos bichos",
+    "author": "George Orwell",
+    "cover": "https://m.media-amazon.com/images/I/91BsZhxCRjL._SY466_.jpg",
+    "simple_description": "A melhor sátira já escrita sobre a face negra da história moderna. - Malcolm Bradbury"
+  },
+  {
+    "order": "3",
+    "id": "a-guerra-dos-mundos",
+    "name": "A guerra dos mundos",
+    "author": "H. G. Wells",
+    "cover": "https://m.media-amazon.com/images/I/71w172G57mS._SY466_.jpg",
+    "simple_description": "Quando um exército de invasores marcianos chega à Inglaterra, o pânico e o terror tomam conta da população."
+  },
+  {
+    "order": "4",
+    "id": "o-bebe-de-rosemary",
+    "name": "O bebê de Rosemary",
+    "author": "Ira Levin",
+    "cover": "https://m.media-amazon.com/images/I/61EJd9oPopL._SL1297_.jpg",
+    "simple_description": "Ira Levin e o nascimento de um dos maiores horrores da literatura e do cinema."
+  },
+  {
+    "order": "5",
+    "id": "o-medico-e-o-monstro",
+    "name": "O Médico e o Monstro",
+    "author": "Robert Stevenson",
+    "cover": "https://m.media-amazon.com/images/I/717l8ZCezhL._AC_UF1000,1000_QL80_.jpg",
+    "simple_description": "Considerado um dos três maiores clássicos do gênero de horror, ao lado de Frankenstein e Drácula."
+  }
+]
